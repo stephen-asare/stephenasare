@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @25Stephen
+- 👋 Hi, I’m Stephen Asare
 - 👀 I’m interested in data science specifically data visualization and data analytics
 - 🌱 I’m currently learning Meteorology and climate science at Kwame Nkrumah University of Science and Technology.
 - 💞️ I’m looking to collaborate on data analytics using Python, R and MATLAB.
