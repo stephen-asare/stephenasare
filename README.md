@@ -1,6 +1,6 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
 <h3 align="center">
-\bf{Hey there, This is Steve 👋}
+Hey there, This is Steve 👋
 </h3>
 <h3 align="center">A Big Data Scientist</h3>
 
