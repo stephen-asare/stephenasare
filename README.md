@@ -1,6 +1,6 @@
 <!--![counter](https://p_RRCgv9m.m.pipedream.net)-->
 <h3 align="center">
-Hey there, This is Steve 👋
+\bf{Hey there, This is Steve 👋}
 </h3>
 <h3 align="center">A Big Data Scientist</h3>
 
@@ -24,7 +24,6 @@ Hey there, This is Steve 👋
 <h3 align="center">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -41,6 +40,8 @@ I know :(, Its very low. But hey, not everyone actually likes challeging stuff.
 
 ## My Stats:
 ![I mostly use these languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25stephen&show_icons=true&theme=transparent&layout=donut)
+
+
 
 
 ### Visitors Count
