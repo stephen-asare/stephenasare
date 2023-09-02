@@ -17,8 +17,6 @@ Hey there, This is Steve 👋
 </a>
  <a href="linkedin.com/in/stephen-asare-92a230194">
   <img align="left" alt="Stephen's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>   <a href="https://orcid.org/0000-0002-2438-5000">
-  <img align="left" alt="Stephen's Orcid" width="22px" src="https://cdn.jsdelivr.net/npm/orcid-search-url-js@0.0.2/orcidSearchUrl.min.js" />
 <br/>
 
 <h3 align="center"> Tools:</h3>
