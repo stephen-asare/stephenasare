@@ -27,7 +27,6 @@ Hey there, This is Steve 👋
 
 ## 📈 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=25stephen&show_icons=true&theme=transparent&rank_icon=github)
-I know :(, Its very low. But hey, not everyone actually likes challeging stuff.
 
 ## My Stats:
 ![I mostly use these languages](https://github-readme-stats.vercel.app/api/top-langs/?username=25stephen&show_icons=true&theme=transparent&layout=donut)
