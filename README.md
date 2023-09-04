@@ -23,7 +23,7 @@ Hey there, This is Steve 👋
 <h3 align="center"> Tools:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="40" height="40"/></a> </p>
-[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/25stephen
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/25stephen)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/25stephen)
 
 
