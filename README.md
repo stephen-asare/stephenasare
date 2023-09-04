@@ -21,7 +21,8 @@ Hey there, This is Steve 👋
 <br/>
 
 <h3 align="center"> Languages:</h3>
-</p>[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/25stephen)
+</p>
+[![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/25stephen)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/25stephen)
 [![MLFlow](https://img.shields.io/badge/mlflow-black?style=for-the-badge&logo=numpy&logoColor=blue)](https://github.com/25stephen)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/25stephen)
