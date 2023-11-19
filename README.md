@@ -9,7 +9,7 @@ Hey there, This is Steve 👋
 - 👀 I’m interested in High Performance Computing, Big Data Science, Data Analytics, High Dimensional Data Computing and of course ML, :) Who's not learning ML nowadays :).
 - 💟 I love to develop impactful and robust products which aim to solve real-world problems. Not to forget, I love to explore, discover and party.
 - 💞️ I’m looking to collaborate on data analytics, management and high performance computing. I enjoy research too, kindly let me know if you are recruting people to volunteer in a research firm.
-- 📫 Feel Free to reach me on: 25stephenasare@gmail.com. You can also visit my <a href="https://stephen-asare.github.io"> alt="Website"> website I post some interesting tricks on data science.
+- 📫 Feel Free to reach me on: 25stephenasare@gmail.com. You can also visit my <a href="https://stephen-asare.github.io" alt="Website"> I post some interesting tricks on data science.
 
 <br/>
 <a href="https://www.youtube.com/channel">
