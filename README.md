@@ -21,22 +21,27 @@ Hey there, This is Steve 👋
 
 ### Languages:
 
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
-[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
-[![jupyter notebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg)](#)
-<!-- [![numpy](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)](https://www.numpy.org) -->
-[![matplotlib](https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg)](https://matplotlib.org/)
-[![pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)](https://pandas.pydata.org/)
-[![xarray](https://xarray.dev/xarray-datastructure.png)](https://xarray.dev/)
-[![sci-kit learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
-[![pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/)
-[![tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)](https://www.tensorflow.org/)
-[![fortran](https://vectorwiki.com/images/R3kOH__fortran.svg)](https://fortran-lang.org/)
-[![shell](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)](https://www.gnu.org/software/bash/)
-[![r](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.r-project.org/)
-[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
-<!-- [![git](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/) -->
-[![git](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png)](https://www.arcgis.com/)
+<br/>
+
+### Languages:
+
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>](https://www.linux.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>](https://www.python.org)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="30" height="30"/>](#)
+<!-- [<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="30" height="30"/>](https://www.numpy.org) -->
+[<img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" alt="matplotlib" width="30" height="30"/>](https://matplotlib.org/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="30" height="30"/>](https://pandas.pydata.org/)
+[<img src="https://xarray.dev/xarray-datastructure.png" alt="xarray" width="40" height="40"/>](https://xarray.dev/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sci-kit learn" width="30" height="30"/>](https://scikit-learn.org/)
+[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="30" height="30"/>](https://pytorch.org/)
+[<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>](https://www.tensorflow.org/)
+[<img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="fortran" width="30" height="30"/>](https://fortran-lang.org/)
+[<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="30" height="30"/>](https://www.gnu.org/software/bash/)
+[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="r" width="30" height="30"/>](https://www.r-project.org/)
+[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>](https://git-scm.com/)
+<!-- [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="30" height="30"/>](https://github.com/) -->
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" width="30" height="30"/>](https://www.arcgis.com/)
+
 
 ## 📈 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-asare&show_icons=true&theme=transparent&rank_icon=github)
