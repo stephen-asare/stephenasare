@@ -19,16 +19,12 @@ Hey there, This is Steve 👋
   
 <br/>
 
-### Languages:
-
-<br/>
 
 ### Languages:
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>](https://www.python.org)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter notebook" width="30" height="30"/>](#)
-<!-- [<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" width="30" height="30"/>](https://www.numpy.org) -->
 [<img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" alt="matplotlib" width="30" height="30"/>](https://matplotlib.org/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="30" height="30"/>](https://pandas.pydata.org/)
 [<img src="https://xarray.dev/xarray-datastructure.png" alt="xarray" width="40" height="40"/>](https://xarray.dev/)
@@ -39,7 +35,6 @@ Hey there, This is Steve 👋
 [<img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="30" height="30"/>](https://www.gnu.org/software/bash/)
 [<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="r" width="30" height="30"/>](https://www.r-project.org/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>](https://git-scm.com/)
-<!-- [<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="30" height="30"/>](https://github.com/) -->
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" width="30" height="30"/>](https://www.arcgis.com/)
 
 
