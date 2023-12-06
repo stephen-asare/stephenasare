@@ -19,27 +19,24 @@ Hey there, This is Steve 👋
   
 <br/>
 
-<h3 align="center"> Languages:</h3>
+### Languages:
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="40" height="40"/></a>
-<!--       <a href="https://www.numpy.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="python" width="60" height="60"/></a> -->
-    <a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg" alt="matplotlib" width="60" height="60"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="60" height="60"/></a>
-    <a href="https://xarray.dev/" target="_blank"> <img src="https://xarray.dev/xarray-datastructure.png" alt="xarray" width="80" height="80"/></a>
-    <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sci-kit learn" width="60" height="60"/></a>
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>  
-    <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-    <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/R3kOH__fortran.svg" alt="fortran" width="40" height="40"/></a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"  alt="r" width="40" height="40"/></a>
-    <a href="https://www.r-project.org/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"  alt="r" width="40" height="40"/></a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<!--       <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a> -->
-    <a href="https://www.arcgis.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="git" width="60" height="60"/>
-
-
-
+[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org)
+[![jupyter notebook](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg)](#)
+<!-- [![numpy](https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg)](https://www.numpy.org) -->
+[![matplotlib](https://upload.wikimedia.org/wikipedia/fr/3/37/Logo_Matplotlib.svg)](https://matplotlib.org/)
+[![pandas](https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg)](https://pandas.pydata.org/)
+[![xarray](https://xarray.dev/xarray-datastructure.png)](https://xarray.dev/)
+[![sci-kit learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)](https://scikit-learn.org/)
+[![pytorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)](https://pytorch.org/)
+[![tensorflow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)](https://www.tensorflow.org/)
+[![fortran](https://vectorwiki.com/images/R3kOH__fortran.svg)](https://fortran-lang.org/)
+[![shell](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)](https://www.gnu.org/software/bash/)
+[![r](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)](https://www.r-project.org/)
+[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+<!-- [![git](https://www.vectorlogo.zone/logos/github/github-icon.svg)](https://github.com/) -->
+[![git](https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png)](https://www.arcgis.com/)
 
 ## 📈 My Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-asare&show_icons=true&theme=transparent&rank_icon=github)
