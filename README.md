@@ -44,6 +44,9 @@ Hey there, This is Steve 👋
 ## My Stats:
 ![I mostly use these languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephen-asare&show_icons=true&theme=transparent&layout=donut)
 
+[![Stephen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=stephen-asare&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
