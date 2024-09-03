@@ -38,9 +38,8 @@ Hey there, This is Steve 👋
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png" alt="arcgis" width="30" height="30"/>](https://www.arcgis.com/)
 
 
-## 📈 My Github Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-asare&show_icons=true&theme=transparent&rank_icon=github)
-
+<!-- ## 📈 My Github Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephen-asare&show_icons=true&theme=transparent&rank_icon=github) >
 
 
 
